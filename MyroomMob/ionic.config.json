@@ -1,0 +1,7 @@
+{
+  "name": "MyroomMob",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
